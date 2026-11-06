@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "409573071567",
+    "project_id": "studyflow-f88cf",
+    "storage_bucket": "studyflow-f88cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409573071567:android:f968ea43483676cfde35ba",
+        "android_client_info": {
+          "package_name": "com.abhipandit.studyflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409573071567-ov2pm31knos10seo0f86d0l8tbl874h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhipandit.studyflow",
+            "certificate_hash": "f9d37bba6c4bedb81ee13672ce235aea0192fa7b"
+          }
+        },
+        {
+          "client_id": "409573071567-sbdv90fc6cdq00cnekqqudlhfir2ku2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVyfGtba5-Kj8XN2O-JIfWIwJkeIm8I14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409573071567-sbdv90fc6cdq00cnekqqudlhfir2ku2a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409573071567-cv6ndedp8qpfp5ufaluarcupcpqusadl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abhipandit.studyflow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
